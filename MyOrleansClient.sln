@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOrleansClient", "MyOrleansClient\MyOrleansClient.csproj", "{F6EC242D-2173-44E4-A30D-A484253F3943}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainInterfaces", "GrainInterfaces\GrainInterfaces.csproj", "{62ADEC34-724A-4D99-AB36-8192258674F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOrleansGrainInterfaces", "..\MyOrleansGrains\MyOrleansGrainInterfaces\MyOrleansGrainInterfaces.csproj", "{2F018F9D-05B7-4840-A251-CDF698AEF7B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grains", "Grains\Grains.csproj", "{02571B71-D501-4DB8-A7C7-231D8D66A561}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOrleansGrains", "..\MyOrleansGrains\MyOrleansGrains\MyOrleansGrains.csproj", "{1C965E3C-A2DB-41D8-A97A-7D5A06D6613A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		{F6EC242D-2173-44E4-A30D-A484253F3943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6EC242D-2173-44E4-A30D-A484253F3943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6EC242D-2173-44E4-A30D-A484253F3943}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62ADEC34-724A-4D99-AB36-8192258674F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62ADEC34-724A-4D99-AB36-8192258674F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62ADEC34-724A-4D99-AB36-8192258674F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62ADEC34-724A-4D99-AB36-8192258674F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{02571B71-D501-4DB8-A7C7-231D8D66A561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{02571B71-D501-4DB8-A7C7-231D8D66A561}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{02571B71-D501-4DB8-A7C7-231D8D66A561}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{02571B71-D501-4DB8-A7C7-231D8D66A561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F018F9D-05B7-4840-A251-CDF698AEF7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F018F9D-05B7-4840-A251-CDF698AEF7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F018F9D-05B7-4840-A251-CDF698AEF7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F018F9D-05B7-4840-A251-CDF698AEF7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C965E3C-A2DB-41D8-A97A-7D5A06D6613A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C965E3C-A2DB-41D8-A97A-7D5A06D6613A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C965E3C-A2DB-41D8-A97A-7D5A06D6613A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C965E3C-A2DB-41D8-A97A-7D5A06D6613A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

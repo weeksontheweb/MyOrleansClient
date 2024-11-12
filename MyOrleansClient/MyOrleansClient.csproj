@@ -14,7 +14,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\GrainInterfaces\GrainInterfaces.csproj" />
+      <ProjectReference Include="..\..\MyOrleansGrains\MyOrleansGrainInterfaces\MyOrleansGrainInterfaces.csproj" />
     </ItemGroup>
 
 </Project>
